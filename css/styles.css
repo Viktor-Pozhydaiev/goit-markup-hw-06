@@ -819,11 +819,15 @@ img {
   font-family: var(--main-font);
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.01em;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 .check-desk-wrapper {
+  font-family: var(--main-font);
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-decoration-line: underline;
   color: #2196f3;
@@ -901,6 +905,7 @@ img {
   height: 50px;
   border: 1px solid rgba(255, 255, 255, 0.3);
   padding-left: 16px;
+  color: var(--secondary-color);
 }
 .footer-form-title {
   display: flex;
