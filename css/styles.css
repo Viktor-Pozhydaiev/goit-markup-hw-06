@@ -812,13 +812,12 @@ img {
 }
 
 .modal-form-chek-desk {
-  font-size: 12px;
+  font-size: 14px;
   display: flex;
   margin-top: 20px;
   align-items: center;
   font-family: var(--main-font);
   font-weight: 400;
-  font-size: 12px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
@@ -864,6 +863,11 @@ img {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   border-radius: 4px;
 }
+.footer-form-wrapper {
+  display: flex;
+  position: relative;
+  margin-top: 4px;
+}
 .footer-form-field {
   font-family: var(--main-font);
   font-weight: 400;
@@ -874,9 +878,6 @@ img {
   padding-bottom: 4px;
 }
 .footer-form-wrapper {
-  display: block;
-  position: relative;
-  margin-top: 4px;
 }
 .footer-form-btn {
   display: flex;
