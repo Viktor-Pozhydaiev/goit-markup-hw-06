@@ -116,7 +116,7 @@ img {
 .navigation-link:focus {
   color: var(--accent-color);
 }
-.header-studio {
+.logo__header {
   color: var(--title-color);
 }
 .navigation-link {
@@ -858,7 +858,7 @@ img {
 }
 .footer-form {
   display: flex;
-  margin-left: 94px;
+  margin-left: 93px;
   flex-direction: row;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   border-radius: 4px;
